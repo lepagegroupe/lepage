@@ -9,7 +9,8 @@
 <h3 align="center">Code-Creative</h3>
 
 <p align="center">
-  Code-Creative is a design-driven full-service creative and digital agency specializing in the creation of memorable experiences and brands that are built to last.
+  Code-Creative is a design-driven full-service creative and digital agency.<br/>
+  We specialize in the creation of memorable experiences and brands that are built to last.
   <br/>
   <a href="https://github.com/lionsgategrp">Explore Code-Creative GitHub</a>
   <br/>
