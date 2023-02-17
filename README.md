@@ -18,9 +18,9 @@
   &nbsp; · &nbsp;
   <a href="https://github.com/code-creative-co">GitHub</a>
   &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+  <a href="https://www.linkedin.com/company/code-creative-co">LinkedIn</a>
   &nbsp; · &nbsp;
-  <a href="https://twitter.com/">Twitter</a>
+  <a href="https://twitter.com/codecreativeco">Twitter</a>
   <br/>
   <br/>
   <br/>
