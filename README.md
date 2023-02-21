@@ -11,7 +11,7 @@
 <p align="center">
   A design-driven full-service creative and digital agency.
   <br/>
-  <a href="https://github.com/lepageolson">Explore Code-Creative GitHub</a>
+  <a href="https://github.com/lepageolson">Explore Lepage & Olson GitHub</a>
   <br/>
   <br/>
   <a href="https://lepageolson.xyz">Website</a>
