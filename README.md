@@ -6,21 +6,21 @@
   <br/>
 </p>
 
-<h3 align="center">Lepage & Olson</h3>
+<h3 align="center">Lepage & Bond</h3>
 
 <p align="center">
   A design-driven full-service creative and digital agency.
   <br/>
-  <a href="https://github.com/lepageolson">Explore Lepage & Olson GitHub</a>
+  <a href="https://github.com/lepagebond">Explore Lepage & Olson GitHub</a>
   <br/>
   <br/>
-  <a href="https://lepageolson.xyz">Website</a>
+  <a href="https://lepagebond.com">Website</a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/lepageolson">GitHub</a>
+  <a href="https://github.com/lepagebond">GitHub</a>
   &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/company/lepageolson">LinkedIn</a>
+  <a href="https://www.linkedin.com/company/lepagebond">LinkedIn</a>
   &nbsp; · &nbsp;
-  <a href="https://twitter.com/lepageolson">Twitter</a>
+  <a href="https://twitter.com/lepagebond">Twitter</a>
   <br/>
   <br/>
   <br/>
@@ -29,7 +29,7 @@
   <br/>
   <br/>
   <br/>
-    Copyright © 2023 Lepage Olson LLC. All rights reserved.
+    Copyright © 2023 Lepage Bond LLC. All rights reserved.
   </p>
 </p>
 
