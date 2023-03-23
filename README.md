@@ -14,11 +14,11 @@
   <br/>
   <br/>
   <a href="https://lepagebond.com">Website</a>
-  &nbsp; · &nbsp;
+  &nbsp; • &nbsp;
   <a href="https://github.com/lepagebond">GitHub</a>
-  &nbsp; · &nbsp;
+  &nbsp; • &nbsp;
   <a href="https://www.linkedin.com/company/lepagebond">LinkedIn</a>
-  &nbsp; · &nbsp;
+  &nbsp; • &nbsp;
   <a href="https://twitter.com/lepagebond">Twitter</a>
   <br/>
   <br/>
