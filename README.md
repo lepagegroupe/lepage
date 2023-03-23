@@ -1,8 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://lepagebond.com">
-    <img src="https://user-images.githubusercontent.com/1711854/227311955-942aa048-a3ed-480b-966a-20e5fe6fb29f.png" width="70" alt="lepagebond-icon-rounded-512x512"><br/>
-    <img src="https://user-images.githubusercontent.com/1711854/227310257-f3b26f7f-f2e3-462b-8bae-c5e2f05d2376.png" width="170" alt="lepagebond-logo-rev-1024x1024">
+    <img src="[https://user-images.githubusercontent.com/1711854/227311955-942aa048-a3ed-480b-966a-20e5fe6fb29f.png](https://user-images.githubusercontent.com/1711854/227314132-77009e3a-2eb0-4417-9e1c-4cbc1418b9ae.png)" width="600" alt="lepagebond-github-1128x191">
   </a>
   <br/>
   <br/>
