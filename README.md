@@ -1,6 +1,6 @@
 <p align="center">
   <a href=#>
-    <img src="[https://user-images.githubusercontent.com/1711854/220661115-c3500a41-aa18-4971-afd6-ec8413b65f67.png](https://user-images.githubusercontent.com/1711854/227310257-f3b26f7f-f2e3-462b-8bae-c5e2f05d2376.png)" width="175" alt="lepagebond-logo-rev-1024x1024">
+    <img src="https://user-images.githubusercontent.com/1711854/227310257-f3b26f7f-f2e3-462b-8bae-c5e2f05d2376.png" width="175" alt="lepagebond-logo-rev-1024x1024">
   </a>
   <br/>
   <br/>
