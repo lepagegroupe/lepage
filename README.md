@@ -2,11 +2,11 @@
   <a href="https://lepagebond.com">
     <img src="https://user-images.githubusercontent.com/1711854/227318273-8561fc54-3fef-4fa2-8180-b992549301bb.png" width="100%" alt="lepagebond-github-1128x125">
   </a>
-  <br/>
 </p>
 
+<br/>
+
 <p align="center">
-  <br/>
   A design-driven full-service creative and digital agency.
   <br/>
   <a href="https://github.com/lepagebond">Explore Lepage & Bond GitHub</a>
