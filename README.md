@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <br/>
   A design-driven full-service creative and digital agency.
   <br/>
   <a href="https://github.com/lepagebond">Explore Lepage & Bond GitHub</a>
