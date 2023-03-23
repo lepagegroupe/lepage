@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://lepagebond.com">
-    <img src="https://user-images.githubusercontent.com/1711854/227314132-77009e3a-2eb0-4417-9e1c-4cbc1418b9ae.png" width="100%" alt="lepagebond-github-1128x191">
+    <img src="https://user-images.githubusercontent.com/1711854/227315076-f87974b5-f2de-45c6-a59b-ced2ed8193ad.png" width="100%" alt="lepagebond-github-1128x165">
   </a>
   <br/>
   <br/>
