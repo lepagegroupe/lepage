@@ -1,4 +1,3 @@
-<br/>
 <div align="center">
   <a href="https://lepagebond.com">
     <picture>
@@ -9,6 +8,7 @@
     </picture>
   </a>
 </div>
+<br/>
 <br/>
 
 <p align="center">
