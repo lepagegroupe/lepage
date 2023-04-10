@@ -3,8 +3,8 @@
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://user-images.githubusercontent.com/1711854/230803712-f8bbebb2-7aa1-4165-94c1-051e1894e355.png" width="100%" alt="Lepage & Bond Banner [lepagebond-github-rev-1128x125]">
-      <img src="https://user-images.githubusercontent.com/1711854/230803711-2eb39d34-eb87-466c-b97e-ea51bd17d705.png" width="100%" alt="Lepage & Bond Banner [lepagebond-github-1128x125]">
+        srcset="https://user-images.githubusercontent.com/1711854/230814312-8ef13b86-60cd-4105-9032-18d36f170e21.png" width="100%" alt="Lepage & Bond Banner [lepagebond-github-rev-1128x115]">
+      <img src="https://user-images.githubusercontent.com/1711854/230814310-2d4a53fa-37b8-4205-b1b7-2bbb1fb0d8ce.png" width="100%" alt="Lepage & Bond Banner [lepagebond-github-1128x115]">
     </picture>
   </a>
 </div>
