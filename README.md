@@ -1,9 +1,14 @@
-<p align="center">
+<br/>
+<div align="center">
   <a href="https://lepagebond.com">
-    <img src="https://user-images.githubusercontent.com/1711854/227318273-8561fc54-3fef-4fa2-8180-b992549301bb.png" width="100%" alt="lepagebond-github-1128x125">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://user-images.githubusercontent.com/1711854/230803712-f8bbebb2-7aa1-4165-94c1-051e1894e355.png" width="100%" alt="Lepage & Bond Banner [lepagebond-github-rev-1128x125]">
+      <img src="https://user-images.githubusercontent.com/1711854/230803711-2eb39d34-eb87-466c-b97e-ea51bd17d705.png" width="100%" alt="Lepage & Bond Banner [lepagebond-github-1128x125]">
+    </picture>
   </a>
-</p>
-
+</div>
 <br/>
 
 <p align="center">
