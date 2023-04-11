@@ -83,7 +83,7 @@ Lepage & Bond is a design-driven full-service creative and digital agency specia
 ### Partner info
 
 <div align="left">
-  <a href="https://github.com/guylepage3" target="_blank">Guy Lepage</a>, <i>Founder & CCO</i></li>
+  <a href="https://github.com/guylepage3" target="_blank">Guy Lepage</a>, <i>Partner & Chief Creative Officer</i></li>
   <br />
   <div align="left">
     <a href="https://twitter.com/guylepage3" target="_blank">
