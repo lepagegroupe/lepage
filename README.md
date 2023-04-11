@@ -58,8 +58,8 @@
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://user-images.githubusercontent.com/1711854/231209930-65c73abf-a8d8-415d-a61a-8e7857f6e2c7.png"  width="135px" alt="lepagebond.com [lepagebond-github-lepagebond-com-btn-rev-270x60]">
-    <img src="https://user-images.githubusercontent.com/1711854/231209927-f3bd53ce-685c-4f8d-bde2-a7dce7a98055.png"  width="135px" alt="lepagebond.com [lepagebond-github-lepagebond-com-btn-270x60]">
+      srcset="https://user-images.githubusercontent.com/1711854/231222176-6ff1bbf0-e61c-477d-82c2-dac27d8db6e5.png"  width="135px" alt="lepagebond.com [lepagebond-github-lepagebond-com-btn-rev-270x60]">
+    <img src="https://user-images.githubusercontent.com/1711854/231222173-fd9c10c3-25bc-4fce-9318-131ac65f9c0e.png"  width="135px" alt="lepagebond.com [lepagebond-github-lepagebond-com-btn-270x60]">
   </picture>
 </a>
 &nbsp;
@@ -67,8 +67,8 @@
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://user-images.githubusercontent.com/1711854/231218907-eeecbdd2-4b13-4d38-9db5-a1171412b909.png"  width="99px" alt="Lepage & Bond Twitter [lepagebond-github-twitter-btn-rev-198x60]">
-    <img src="https://user-images.githubusercontent.com/1711854/231218904-2b88d136-a94f-46da-bd65-3eca21fb0fa7.png"  width="99px" alt="Lepage & Bond Twitter [lepagebond-github-twitter-btn-198x60]">
+      srcset="https://user-images.githubusercontent.com/1711854/231221964-532f4f89-4c20-4f56-b6e1-3a6e0ff562e1.png"  width="99px" alt="Lepage & Bond Twitter [lepagebond-github-twitter-btn-rev-198x60]">
+    <img src="https://user-images.githubusercontent.com/1711854/231221961-4572a651-9467-46db-926d-9217208bcf78.png"  width="99px" alt="Lepage & Bond Twitter [lepagebond-github-twitter-btn-198x60]">
   </picture>
 </a>
 
