@@ -20,8 +20,8 @@
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/twitter/ffffff"  width="14px">
-      <img src="https://ico.vercel.app/twitter/000000"  width="14px">
+        srcset="https://ico.vercel.app/twitter/ffffff"  width="16px">
+      <img src="https://ico.vercel.app/twitter/000000"  width="16px">
     </picture>
   </a>
   &nbsp;&nbsp;
@@ -29,8 +29,8 @@
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/linkedin/ffffff"  width="14px">
-      <img src="https://ico.vercel.app/linkedin/000000"  width="14px">
+        srcset="https://ico.vercel.app/linkedin/ffffff"  width="16px">
+      <img src="https://ico.vercel.app/linkedin/000000"  width="16px">
     </picture>
   </a>
   &nbsp;&nbsp;
@@ -38,8 +38,8 @@
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/github/ffffff"  width="14px">
-      <img src="https://ico.vercel.app/github/000000"  width="14px">
+        srcset="https://ico.vercel.app/github/ffffff"  width="16px">
+      <img src="https://ico.vercel.app/github/000000"  width="16px">
     </picture>
   </a>
 </div>
@@ -50,7 +50,7 @@
 
 —&nbsp;&nbsp;[Status](#status)<br />
 —&nbsp;&nbsp;[About the work](#about-the-work)<br />
-—&nbsp;&nbsp;[Founder & CCO](#founder--cco)<br />
+—&nbsp;&nbsp;[Partner info](#partner-info)<br />
 <br />
 
 ### Status
@@ -80,10 +80,10 @@ Lepage & Bond is a design-driven full-service creative and digital agency specia
 
 <br />
 
-### Founder & CCO
+### Partner info
 
 <div align="left">
-  <a href="https://github.com/guylepage3" target="_blank">Guy Lepage</a></li>
+  <a href="https://github.com/guylepage3" target="_blank">Guy Lepage</a>, <i>Founder & CCO</i></li>
   <br />
   <div align="left">
     <a href="https://twitter.com/guylepage3" target="_blank">
@@ -169,7 +169,7 @@ Lepage & Bond is a design-driven full-service creative and digital agency specia
 <br />
 
 <div align="left">  
-  Copyright © 2023 <a href="https://lepagebond.com" target="_blank">Lepage Bond LLC</a>. All rights reserved.
+  Copyright © 2023 <a href="https://lepagebond.com" target="_blank">Lepage & Bond LLC</a>. All rights reserved.
 </div>
 
 <br/>
