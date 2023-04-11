@@ -67,8 +67,8 @@
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://user-images.githubusercontent.com/1711854/231218907-eeecbdd2-4b13-4d38-9db5-a1171412b909.png"  width="94px" alt="Lepage & Bond Twitter [lepagebond-github-twitter-btn-rev-198x60]">
-    <img src="https://user-images.githubusercontent.com/1711854/231218904-2b88d136-a94f-46da-bd65-3eca21fb0fa7.png"  width="94px" alt="Lepage & Bond Twitter [lepagebond-github-twitter-btn-198x60]">
+      srcset="https://user-images.githubusercontent.com/1711854/231218907-eeecbdd2-4b13-4d38-9db5-a1171412b909.png"  width="99px" alt="Lepage & Bond Twitter [lepagebond-github-twitter-btn-rev-198x60]">
+    <img src="https://user-images.githubusercontent.com/1711854/231218904-2b88d136-a94f-46da-bd65-3eca21fb0fa7.png"  width="99px" alt="Lepage & Bond Twitter [lepagebond-github-twitter-btn-198x60]">
   </picture>
 </a>
 
