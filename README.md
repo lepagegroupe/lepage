@@ -58,8 +58,8 @@
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://user-images.githubusercontent.com/1711854/231041169-d0d28812-8344-496d-9f3c-f1723948d779.png"  width="170" alt="lepagebond.com [lepagebond-github-lepagebond-com-btn-rev-340x72]">
-    <img src="https://user-images.githubusercontent.com/1711854/231041163-02512a3c-1f27-4f0f-8da9-82b60dbe2a04.png"  width="170" alt="lepagebond.com [lepagebond-github-lepagebond-com-btn-340x72]">
+      srcset="https://user-images.githubusercontent.com/1711854/231207259-4cd7d89d-fa57-4699-9b7c-de539e30273e.png"  width="150px" alt="lepagebond.com [lepagebond-github-lepagebond-com-btn-rev-300x65]">
+    <img src="https://user-images.githubusercontent.com/1711854/231207255-94735548-772c-458f-b93d-177829482177.png"  width="150px" alt="lepagebond.com [lepagebond-github-lepagebond-com-btn-300x65]">
   </picture>
 </a>
 
