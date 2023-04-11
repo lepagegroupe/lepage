@@ -166,5 +166,3 @@ Lepage & Bond is a design-driven full-service creative and digital agency specia
 <div align="left">  
   Copyright © 2023 <a href="https://lepagebond.com" target="_blank">Lepage & Bond LLC</a>. All rights reserved.
 </div>
-
-<br/>
