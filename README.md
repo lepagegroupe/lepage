@@ -51,7 +51,6 @@
 —&nbsp;&nbsp;[Status](#status)<br />
 —&nbsp;&nbsp;[About the work](#about-the-work)<br />
 —&nbsp;&nbsp;[Partner info](#partner-info)<br />
-<br />
 
 ### Status
 
@@ -64,8 +63,6 @@
   </picture>
 </a>
 
-<br />
-
 ### About the work
 
 Lepage & Bond is a design-driven full-service creative and digital agency specializing in the creation of memorable experiences and brands that are built to last.
@@ -77,8 +74,6 @@ Lepage & Bond is a design-driven full-service creative and digital agency specia
 > Unifying brands and people — Through strategic thinking and expertly crafted design, we help everyone know and love what you do, solving complex problems with elegant and memorable solutions. Our work balances the tension between past and present to help bridge diverse perspectives.
 
 > Enduring relevance — With a philosophy rooted in universal principles, our aim is to ensure that the bold ideas of today become the icons of tomorrow. We devise solutions that cut through the noise, fuel growth, create efficiencies, and withstand the test of time.
-
-<br />
 
 ### Partner info
 
