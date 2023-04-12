@@ -10,6 +10,7 @@
 </div>
 <br />
 <div align="center">
+  <h3>Lepage & Bond</h3>
   <p>
     Creating brands that inspire, unify, and endure.
   </p>
