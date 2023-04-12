@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <p>
-    A design-driven full-service creative and digital agency.
+    Creating brands that inspire, unify, and endure.
   </p>
   <p>
     <a href="https://github.com/lepagebond">Explore Lepage & Bond</a>
@@ -78,16 +78,20 @@
 <div>
   <h3>Agency</h3>
   <p>
-    Lepage & Bond is a design-driven full-service creative and digital agency specializing in the creation of memorable experiences and brands that are built to last.
+    
   </p>
   <blockquote>
+    <br />
+    Lepage & Bond is a design-driven full-service creative and digital agency specializing in the creation of memorable experiences and brands that are built to last.<br />
+    <br />
     We create brands that inspire, unify, and endure.<br />
     <br />
     Inspiring the world — We communicate what is essential – finding the heart of your unique offering and expressing it across all you do. This, after all, is what commands attention and creates connections. And that’s what moves the world forward.<br />
     <br />
     Unifying brands and people — Through strategic thinking and expertly crafted design, we help everyone know and love what you do, solving complex problems with elegant and memorable solutions. Our work balances the tension between past and present to help bridge diverse perspectives.<br />
     <br />
-    Enduring relevance — With a philosophy rooted in universal principles, our aim is to ensure that the bold ideas of today become the icons of tomorrow. We devise solutions that cut through the noise, fuel growth, create efficiencies, and withstand the test of time.
+    Enduring relevance — With a philosophy rooted in universal principles, our aim is to ensure that the bold ideas of today become the icons of tomorrow. We devise solutions that cut through the noise, fuel growth, create efficiencies, and withstand the test of time.<br />
+    <br />
   </blockquote>
 </div>
 <br />
