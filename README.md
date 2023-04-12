@@ -14,7 +14,7 @@
     A design-driven full-service creative and digital agency.
   </p>
   <p>
-    <a href="https://github.com/lepagebond">Explore Lepage & Bond GitHub</a>
+    <a href="https://github.com/lepagebond">Explore Lepage & Bond</a>
   </p>
   <div>
     <a href="https://twitter.com/lepagebond" target="_blank">
