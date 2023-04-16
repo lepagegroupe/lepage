@@ -3,8 +3,8 @@
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://user-images.githubusercontent.com/1711854/231610375-78f5cd89-4cf0-4f5d-a029-08b064ab6399.png" width="840" alt="Lepage & Bond banner [lepagebond-github-banner-rev-1600x170]"">
-      <img src="https://user-images.githubusercontent.com/1711854/231610374-c6e8a5c1-46a0-46fc-9496-64d45d3de77b.png" width="840" alt="Lepage & Bond banner [lepagebond-github-banner-1600x170]">
+        srcset="https://user-images.githubusercontent.com/1711854/232259067-9974924f-ebe1-446d-b50e-193cce55cc04.svg" width="100%" alt="Lepage & Bond banner [1600x170]"">
+      <img src="https://user-images.githubusercontent.com/1711854/232259066-5e853749-e35a-426f-ab76-ee453e435643.svg" width="100%" alt="Lepage & Bond banner [1600x170]">
     </picture>
   </a>
 </div>
@@ -18,7 +18,7 @@
     <a href="https://github.com/lepagebond">Explore Lepage & Bond</a>
   </p>
   <div>
-    <a href="https://twitter.com/lepagebond" target="_blank">
+    <a href="https://twitter.com/lepagebond">
       <picture>
         <source 
           media="(prefers-color-scheme: dark)" 
@@ -27,7 +27,7 @@
       </picture>
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/company/lepagebond/" target="_blank">
+    <a href="https://www.linkedin.com/company/lepagebond/">
       <picture>
         <source 
           media="(prefers-color-scheme: dark)" 
@@ -36,7 +36,7 @@
       </picture>
     </a>
     &nbsp;&nbsp;
-    <a href="https://github.com/lepagebond" target="_blank">
+    <a href="https://github.com/lepagebond">
       <picture>
         <source 
           media="(prefers-color-scheme: dark)" 
@@ -58,21 +58,20 @@
 <br />
 <div>
   <h3>Status</h3>
-  <a href="https://lepagebond.com" target="_blank">
+  <a href="https://lepagebond.com">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://user-images.githubusercontent.com/1711854/231222176-6ff1bbf0-e61c-477d-82c2-dac27d8db6e5.png"  width="135px" alt="lepagebond.com [lepagebond-github-lepagebond-com-btn-rev-270x60]">
-      <img src="https://user-images.githubusercontent.com/1711854/231222173-fd9c10c3-25bc-4fce-9318-131ac65f9c0e.png"  width="135px" alt="lepagebond.com [lepagebond-github-lepagebond-com-btn-270x60]">
+        srcset="https://user-images.githubusercontent.com/1711854/232258564-09f28975-8576-4f69-ba82-aec17964f988.svg"  width="127px" alt="lepagebond.com [254x56]">
+      <img src="https://user-images.githubusercontent.com/1711854/232258562-572b7eb7-74f9-4efc-8ea9-082f699c11fb.svg"  width="127px" alt="lepagebond.com [254x56]">
     </picture>
   </a>
-  &nbsp;
-  <a href="https://twitter.com/lepagebond" target="_blank">
+  <a href="https://twitter.com/lepagebond">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://user-images.githubusercontent.com/1711854/231221964-532f4f89-4c20-4f56-b6e1-3a6e0ff562e1.png"  width="99px" alt="Lepage & Bond Twitter [lepagebond-github-twitter-btn-rev-198x60]">
-      <img src="https://user-images.githubusercontent.com/1711854/231221961-4572a651-9467-46db-926d-9217208bcf78.png"  width="99px" alt="Lepage & Bond Twitter [lepagebond-github-twitter-btn-198x60]">
+        srcset="https://user-images.githubusercontent.com/1711854/232259048-db69af2c-aa43-4a7b-9321-3a238eb485b9.svg"  width="93px" alt="Lepage & Bond Twitter [186x56]">
+      <img src="https://user-images.githubusercontent.com/1711854/232259046-bb3633e8-44b4-4e53-bdc7-b35f8b6820e2.svg" width="93px" alt="Lepage & Bond Twitter [186x56]">
     </picture>
   </a>
 </div>
@@ -100,9 +99,9 @@
 <div>
   <h3>Partner info</h3>
   <blockquote>
-    <a href="https://github.com/guylepage3" target="_blank">Guy Lepage</a>, <i>Partner & Chief Creative Officer</i>
+    <a href="https://github.com/guylepage3">Guy Lepage</a>, <i>Partner & Chief Creative Officer</i>
     <div align="left">
-      <a href="https://twitter.com/guylepage3" target="_blank">
+      <a href="https://twitter.com/guylepage3">
         <picture>
           <source 
             media="(prefers-color-scheme: dark)" 
@@ -111,7 +110,7 @@
         </picture>
       </a>
       &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/guylepage/" target="_blank">
+      <a href="https://www.linkedin.com/in/guylepage/">
         <picture>
           <source 
             media="(prefers-color-scheme: dark)" 
@@ -120,7 +119,7 @@
         </picture>
       </a>
       &nbsp;&nbsp;
-      <a href="https://github.com/guylepage3" target="_blank">
+      <a href="https://github.com/guylepage3">
         <picture>
           <source 
             media="(prefers-color-scheme: dark)" 
@@ -129,7 +128,7 @@
         </picture>
       </a>
       &nbsp;&nbsp;
-      <a href="https://stackoverflow.com/users/1314487/guy-lepage" target="_blank">
+      <a href="https://stackoverflow.com/users/1314487/guy-lepage">
         <picture>
           <source 
             media="(prefers-color-scheme: dark)" 
@@ -138,7 +137,7 @@
         </picture>
       </a>
       &nbsp;&nbsp;
-      <a href="https://www.npmjs.com/~guylepage3" target="_blank">
+      <a href="https://www.npmjs.com/~guylepage3">
         <picture>
           <source 
             media="(prefers-color-scheme: dark)" 
@@ -147,7 +146,7 @@
         </picture>
       </a>
       &nbsp;&nbsp;
-      <a href="https://medium.com/@guylepage3" target="_blank">
+      <a href="https://medium.com/@guylepage3">
         <picture>
           <source 
             media="(prefers-color-scheme: dark)" 
@@ -156,7 +155,7 @@
         </picture>
       </a>
       &nbsp;&nbsp;
-      <a href="https://bitcoin.clarkmoody.com/dashboard/" target="_blank">
+      <a href="https://bitcoin.clarkmoody.com/dashboard/">
         <picture>
           <source 
             media="(prefers-color-scheme: dark)" 
@@ -165,7 +164,7 @@
         </picture>
       </a>
       &nbsp;&nbsp;
-      <a href="https://www.buymeacoffee.com/guylepage3" target="_blank">
+      <a href="https://www.buymeacoffee.com/guylepage3">
         <picture>
           <source 
             media="(prefers-color-scheme: dark)" 
@@ -184,5 +183,5 @@
 <br />
 <br />
 <p align="left">  
-  Copyright © 2023 <a href="https://lepagebond.com" target="_blank">Lepage & Bond LLC</a>. All rights reserved.
+  Copyright © 2023 <a href="https://lepagebond.com">Lepage & Bond LLC</a>. All rights reserved.
 </p>
