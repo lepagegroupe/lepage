@@ -62,16 +62,16 @@
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://user-images.githubusercontent.com/1711854/232258564-09f28975-8576-4f69-ba82-aec17964f988.svg"  width="127px" alt="lepagebond.com [254x56]">
-      <img src="https://user-images.githubusercontent.com/1711854/232258562-572b7eb7-74f9-4efc-8ea9-082f699c11fb.svg"  width="127px" alt="lepagebond.com [254x56]">
+        srcset="https://user-images.githubusercontent.com/1711854/232360906-2d0c1132-44be-4260-b083-c58fc87ccef0.svg" width="135px" alt="lepagebond.com [135x28]">
+      <img src="https://user-images.githubusercontent.com/1711854/232360905-82f1eea9-edb6-4706-9989-ce785ff9b067.svg" width="135px" alt="lepagebond.com [135x28]">
     </picture>
   </a>
   <a href="https://twitter.com/lepagebond">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://user-images.githubusercontent.com/1711854/232259048-db69af2c-aa43-4a7b-9321-3a238eb485b9.svg"  width="93px" alt="Lepage & Bond Twitter [186x56]">
-      <img src="https://user-images.githubusercontent.com/1711854/232259046-bb3633e8-44b4-4e53-bdc7-b35f8b6820e2.svg" width="93px" alt="Lepage & Bond Twitter [186x56]">
+        srcset="https://user-images.githubusercontent.com/1711854/232361127-ecae2f2a-27c8-49e2-871b-eed7c52da63d.svg" width="95px" alt="Lepage & Bond Twitter [95x28]">
+      <img src="https://user-images.githubusercontent.com/1711854/232361123-47a91dbe-7bb1-4513-901d-8bffef1521f6.svg" width="95px" alt="Lepage & Bond Twitter [95x28]">
     </picture>
   </a>
 </div>
