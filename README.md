@@ -50,11 +50,13 @@
 </header>
 <br />
 <nav>
-  <h3>Table of contents</h3>
   <div>
-    —&nbsp;&nbsp;<a href="#status">Status</a><br />
-    —&nbsp;&nbsp;<a href="#agency">Agency</a><br />
-    —&nbsp;&nbsp;<a href="#partner-info">Partner info</a><br />
+    <h3>Table of contents</h3>
+    <div>
+      —&nbsp;&nbsp;<a href="#status">Status</a><br />
+      —&nbsp;&nbsp;<a href="#agency">Agency</a><br />
+      —&nbsp;&nbsp;<a href="#partner-info">Partner info</a><br />
+    </div>
   </div>
 </nav>
 <br />
