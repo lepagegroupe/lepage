@@ -1,25 +1,25 @@
 <header>
   <div align="center">
-    <a href="https://lepagebond.com">
+    <a href="https://lepagegrp.com">
       <picture>
         <source 
           media="(prefers-color-scheme: dark)" 
-          srcset="https://user-images.githubusercontent.com/1711854/232259067-9974924f-ebe1-446d-b50e-193cce55cc04.svg" width="100%" alt="Lepage & Bond banner [1600x170]"">
-        <img src="https://user-images.githubusercontent.com/1711854/232259066-5e853749-e35a-426f-ab76-ee453e435643.svg" width="100%" alt="Lepage & Bond banner [1600x170]">
+          srcset="https://github.com/lepagegrp/lepagebond/assets/1711854/21fb7810-71df-472b-abe1-6464bc2e0d96" width="100%" alt="Lepage banner [1600x170]"">
+        <img src="https://github.com/lepagegrp/lepagebond/assets/1711854/40c1a0d3-b332-49ac-8ce9-3c0461c0dcc2" width="100%" alt="Lepage banner [1600x170]">
       </picture>
     </a>
   </div>
   <br />
   <div align="center">
-    <h3>Lepage & Bond</h3>
+    <h3>Lepage Group</h3>
     <p>
       Creating brands that inspire, unify, and endure.
     </p>
     <p>
-      <a href="https://github.com/lepagebond">Explore Lepage & Bond</a>
+      <a href="https://github.com/lepagegrp">Explore Lepage & Bond</a>
     </p>
     <div>
-      <a href="https://twitter.com/lepagebond">
+      <a href="https://twitter.com/lepagegrp">
         <picture>
           <source 
             media="(prefers-color-scheme: dark)" 
@@ -37,7 +37,7 @@
         </picture>
       </a>
       &nbsp;&nbsp;
-      <a href="https://github.com/lepagebond">
+      <a href="https://github.com/lepagegrp">
         <picture>
           <source 
             media="(prefers-color-scheme: dark)" 
@@ -63,20 +63,20 @@
 <section>
   <div>
     <h3>Status</h3>
-    <a href="https://lepagebond.com">
+    <a href="https://lepagegrp.com">
       <picture>
         <source 
           media="(prefers-color-scheme: dark)" 
-          srcset="https://user-images.githubusercontent.com/1711854/232360906-2d0c1132-44be-4260-b083-c58fc87ccef0.svg" width="135px" alt="lepagebond.com [135x28]">
-        <img src="https://user-images.githubusercontent.com/1711854/232360905-82f1eea9-edb6-4706-9989-ce785ff9b067.svg" width="135px" alt="lepagebond.com [135x28]">
+          srcset="https://github.com/lepagegrp/lepagebond/assets/1711854/93e899a6-afaa-4c7a-8988-59ff67137959" width="123px" alt="lepagegrp.com [123x28]">
+        <img src="https://github.com/lepagegrp/lepagebond/assets/1711854/579e3349-7c26-47bd-8967-aba21de8a1ed" width="123px" alt="lepagegrp.com [123x28]">
       </picture>
     </a>
-    <a href="https://twitter.com/lepagebond">
+    <a href="https://twitter.com/lepagegrp">
       <picture>
         <source 
           media="(prefers-color-scheme: dark)" 
-          srcset="https://user-images.githubusercontent.com/1711854/232361127-ecae2f2a-27c8-49e2-871b-eed7c52da63d.svg" width="95px" alt="Lepage & Bond Twitter [95x28]">
-        <img src="https://user-images.githubusercontent.com/1711854/232361123-47a91dbe-7bb1-4513-901d-8bffef1521f6.svg" width="95px" alt="Lepage & Bond Twitter [95x28]">
+          srcset="https://user-images.githubusercontent.com/1711854/232361127-ecae2f2a-27c8-49e2-871b-eed7c52da63d.svg" width="95px" alt="Lepage Group Twitter [95x28]">
+        <img src="https://user-images.githubusercontent.com/1711854/232361123-47a91dbe-7bb1-4513-901d-8bffef1521f6.svg" width="95px" alt="Lepage Group Twitter [95x28]">
       </picture>
     </a>
   </div>
@@ -87,7 +87,7 @@
     <h3>Agency</h3>
     <blockquote>
       <br />
-      Lepage & Bond is a design-driven full-service creative and digital agency specializing in the creation of memorable experiences and brands that are built to last.<br />
+      Lepage Group is a design-driven full-service creative and digital agency specializing in the creation of memorable experiences and brands that are built to last.<br />
       <br />
       We create brands that inspire, unify, and endure.<br />
       <br />
@@ -105,7 +105,7 @@
   <div>
     <h3>Partner info</h3>
     <blockquote>
-      <a href="https://github.com/guylepage3">Guy Lepage</a>, <i>Partner & Chief Creative Officer</i>
+      <a href="https://github.com/guylepage3">Guy Lepage</a>, <i>Partner</i>
       <div align="left">
         <a href="https://twitter.com/guylepage3">
           <picture>
@@ -191,6 +191,6 @@
 <br />
 <footer>
   <p align="left">  
-    Copyright © 2023 <a href="https://lepagebond.com">Lepage & Bond LLC</a>. All rights reserved.
+    Copyright © 2023 <a href="https://lepagegrp.com">Lepage Group</a>. All rights reserved.
   </p>
 </footer>
