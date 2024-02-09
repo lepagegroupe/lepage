@@ -16,7 +16,7 @@
       Creating brands that inspire, unify, and endure.
     </p>
     <p>
-      <a href="https://github.com/lepagegrp">Explore Lepage & Bond</a>
+      <a href="https://github.com/lepagegrp">Explore Lepage Group</a>
     </p>
     <div>
       <a href="https://twitter.com/lepagegrp">
