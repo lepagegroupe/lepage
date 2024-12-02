@@ -15,9 +15,12 @@ Please provide a short and descriptive example title
 A summary of the issue If suitable, include the tasks required for the issue.
 
 **Tasks**
-- [ ] This is the first task
+- [ ] Create list of issues & resources.
 - [ ] This is the second task
 - [ ] Further tasks, etc.
+
+**Issues & resources**
+- [ ] Item
 
 Any other information you want to share that is relevant to the issue. This might include the lines of code, screenshots, imagery, links, solutions, opinions, feedback, etc.
 
